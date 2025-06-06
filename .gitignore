@@ -7,3 +7,5 @@
 .env.production.local
 .venv*
 __pycache__
+
+./rag-imp/pdfs/*
